@@ -1,2 +1,6 @@
 dlkgjslkdjiofsaioghd;siogioeodighie
+<<<<<<< HEAD
 hdghskjg
+=======
+hdjfhsjhgoshdoighowedghsdoi
+>>>>>>> 8000a117e82c5f548c3591133bf939a84c546ac2
